@@ -1,0 +1,7 @@
+{
+  "prefixes": ["!", "#", ".", "/", "~"],
+  "owner": "62812xxxxxx@s.whatsapp.net",
+  "sessionName": "session",
+  "maxUploadSize": 10000000,
+  "autoReadMessages": false
+}
