@@ -1,0 +1,9 @@
+node_modules/
+session/
+*.log
+.DS_Store
+.env
+temp/
+*.tmp
+config.json
+!config.example.json
