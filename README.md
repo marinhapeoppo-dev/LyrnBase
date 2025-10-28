@@ -16,7 +16,7 @@ WhatsApp Bot dengan support multiple prefix yang dibangun menggunakan Baileys da
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/yourusername/whatsapp-bot-multi-prefix.git
+git clone https://github.com/marinhapeoppo-dev/LyrnBase.git
 cd whatsapp-bot-multi-prefix
 ```
 
