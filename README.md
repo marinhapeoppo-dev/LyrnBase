@@ -21,19 +21,19 @@ git clone https://github.com/marinhapeoppo-dev/LyrnBase.git
 cd whatsapp-bot-multi-prefix
 ```
 
-1. Install dependencies
+2. Install dependencies
 
 ```bash
 npm install
 ```
 
-1. Run the bot
+3. Run the bot
 
 ```bash
 npm start
 ```
 
-1. Scan QR Code yang muncul di terminal
+4. Scan QR Code yang muncul di terminal
 
 🔣 Usage
 
