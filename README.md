@@ -11,6 +11,7 @@ WhatsApp Bot dengan support multiple prefix yang dibangun menggunakan Baileys da
 - 📥 **Media Downloader** - Download media dari URL
 - 👥 **Group Management** - Fitur untuk group
 - ⚡ **Fast & Lightweight** - Dibangun dengan CommonJS
+```
 
 ## 📦 Installation
 
